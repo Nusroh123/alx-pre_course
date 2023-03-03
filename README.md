@@ -1,2 +1,2 @@
-My first readme
-I i'm a Computer Engineer
+
+I'm a Computer Engineer
